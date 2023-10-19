@@ -1,11 +1,11 @@
-# cs-project-dbms
+# CS Project- Brewscapes
 
-Developers: Mudit Garg and Nuha Rehman
-Class: 12-B
-Internal Examiner: Satyender Kumar
-Project Title: BREWSCAPES
+Developers: Mudit Garg and Nuha Rehman <br>
+Class: 12-B <br>
+Internal Examiner: Satyender Kumar <br>
+<b> Project Title: BREWSCAPES </b>
 
-Brewscapes is a simple application made using python and sql interface, 
+Brewscapes is a simple application made using python and sql interface, <br>
 It can be used to manage a small cafe and perform variety of functions like:
 1) View Menu
 2) Take New Order
@@ -17,7 +17,7 @@ It can be used to manage a small cafe and perform variety of functions like:
 8) Search for an item
 9) Exit the program
 
-Database details:
+Database details: 
 1) Host: sql12.freesqldatabase.com
 2) User: sql12653136
 3) Password: Ss2M8HD3kQ
