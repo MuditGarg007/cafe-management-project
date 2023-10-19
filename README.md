@@ -29,4 +29,4 @@ Additional modules used:
 3) os
 4) sys
 
-Thank You for using our program 
+THANK YOU! 
