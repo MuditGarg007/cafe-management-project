@@ -19,9 +19,9 @@ It can be used to manage a small cafe and perform variety of functions like:
 
 Database details: 
 1) Host: sql12.freesqldatabase.com
-2) User: sql12653136
-3) Password: Ss2M8HD3kQ
-4) Database: sql12653136
+2) User: sql12656598
+3) Password: ZhJ229DI5k
+4) Database: sql12656598
 
 Additional modules used:
 1) mysql.connector
