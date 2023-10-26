@@ -17,6 +17,13 @@ It can be used to manage a small cafe and perform variety of functions like:
 8) Search for an item
 9) Exit the program
 
+How to use:
+1) Download "brewscapes.py" and "setup.bat"
+2) If the required modules are not downloaded already, run the setup file
+3) All the required modules are now installed!
+4) Run the "brewscapes.py" python code in the terminal
+5) You should now be able to use the code.
+
 Database details: 
 1) Host: sql12.freesqldatabase.com
 2) User: sql12656598
