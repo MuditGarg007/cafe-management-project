@@ -26,9 +26,9 @@ How to use:
 
 Database details: 
 1) Host: sql12.freesqldatabase.com
-2) User: sql12656598
-3) Password: ZhJ229DI5k
-4) Database: sql12656598
+2) User: sql12658148
+3) Password: yNDppRdVsH
+4) Database: sql12658148
 
 Additional modules used:
 1) mysql.connector
