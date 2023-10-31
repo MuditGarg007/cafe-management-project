@@ -5,7 +5,7 @@ rem Use pip to install Colorama
 pip install colorama
 
 rem Use pip to install mysql.connector
-pip install mysql-connector-python
+pip install mysql.connector
 
 echo Installation complete.
 pause
